@@ -1,1 +1,1 @@
-# Nural-network
+# Neural Network 
